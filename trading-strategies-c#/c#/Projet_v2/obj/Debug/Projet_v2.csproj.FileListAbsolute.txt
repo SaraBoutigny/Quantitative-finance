@@ -1,0 +1,30 @@
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.exe.config
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.exe
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.pdb
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csprojAssemblyReference.cache
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.Properties.Resources.resources
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csproj.GenerateResource.cache
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csproj.CoreCompileInputs.cache
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.exe
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.pdb
+C:\Users\sarab\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.Form_Strat.resources
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.exe.config
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.exe
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\bin\Debug\Projet_v2.pdb
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csprojAssemblyReference.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.Form_Strat.resources
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.Properties.Resources.resources
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csproj.GenerateResource.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.csproj.CoreCompileInputs.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.exe
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2\Projet_v2\obj\Debug\Projet_v2.pdb
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\bin\Debug\Projet_v2.exe.config
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\bin\Debug\Projet_v2.exe
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\bin\Debug\Projet_v2.pdb
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.csprojAssemblyReference.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.Form_Strat.resources
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.Properties.Resources.resources
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.csproj.GenerateResource.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.csproj.CoreCompileInputs.cache
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.exe
+C:\Users\Sara\OneDrive - Université Paris-Dauphine\Scolarité\Cours\Cours M2\C#\Projet Fin Semestre\Projet_v2 - Copie\Projet_v2\obj\Debug\Projet_v2.pdb
